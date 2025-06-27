@@ -1,0 +1,26 @@
+A firewall filters network traffic based on rules that determine whether to allow or block data packets entering or leaving your system.
+
+🔑 Key Points:
+Traffic Direction: Firewalls handle:
+
+Inbound traffic (from the network to your device)
+
+Outbound traffic (from your device to the network)
+
+Rules are Based On:
+
+Port numbers (e.g., block port 23 for Telnet)
+
+Protocol types (TCP, UDP)
+
+IP addresses (source/destination)
+
+Applications or services
+
+Purpose:
+
+Protects against unauthorized access
+
+Blocks malicious connections
+
+Allows trusted traffic (e.g., SSH on port 22)
